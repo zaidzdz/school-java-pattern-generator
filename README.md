@@ -1,0 +1,1 @@
+# school-java-pattern-generator
